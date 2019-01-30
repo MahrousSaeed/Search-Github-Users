@@ -1,0 +1,44 @@
+.header{
+    background: #09c;
+    color: #FFF;
+    font-weight: bold;
+    width: 100%;
+    padding: 15px 0
+}
+.search-container,.output{
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius:5px;
+    margin-top: 15px
+}
+.output{
+    margin: 15px 0;
+    padding: 15px 0
+}
+.badge{
+    padding: 5px;
+    margin: 5px
+}
+.search-container h1 {
+   font-size: 32px;
+   font-weight: bold;
+   text-transform: capitalize;
+}
+.list-group-item span {
+    font-weight: bold
+}
+.search-container p {
+    color: #aaa;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+ }
+ .tag{
+     margin-bottom: 10px
+ }
+ .repo-item{
+     display: flex;
+     flex-direction: row-reverse
+ }
+ .res-container{
+     display: none
+ }
